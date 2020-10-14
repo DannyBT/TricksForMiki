@@ -1,0 +1,7 @@
+## Interface: 80300
+## Author: Dànny
+## Version: 1.0
+## Title: |cfffef367TricksForMiki|r
+## Notes: S'adresse à toutes les victimes de leurs interfaces
+
+core.lua
